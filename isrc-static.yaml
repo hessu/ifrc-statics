@@ -13,6 +13,12 @@ objects:
    lat: 60.195
    lon: 24.883
 
+# - name: Example3
+#   comment: More example entries
+#   symbol: '/+' 
+#   lat: -11.295
+#   lon: -12.823
+
 # - name: Name with Späces
 #   comment: Änöther example
 #   symbol: '/+' 
