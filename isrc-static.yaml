@@ -1,5 +1,6 @@
 ---
-
+ # Changes to this file are deployed every 15 minutes, at :01 :16 :31 :46.
+ 
  # name: Shown name of object; if changed, will create new object.
  #       Max 32 characters, UTF-8 unicode, may contain spaces.
  # comment: Comment string. Max 160 characters, UTF-8 unicode.
