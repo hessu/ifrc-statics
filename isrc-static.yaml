@@ -1,7 +1,8 @@
 ---
 
- # name: Shown name of object; if changed, will create new object
- # comment: Comment string
+ # name: Shown name of object; if changed, will create new object.
+ #       Max 32 characters, UTF-8 unicode, may contain spaces.
+ # comment: Comment string. Max 160 characters, UTF-8 unicode.
  # symbol: APRS symbol code
  # lat, lon: Latitude & Longitude, decimal degrees, positive north/east
 
