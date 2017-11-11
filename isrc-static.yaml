@@ -9,21 +9,50 @@
 
 objects:
 
- - name: EXAMPLE1
-   comment: This is än example cömment string.
+ - name: Long Beach Hotel
+   comment: Hotel Long Beach
+   symbol: '/H' 
+   lat: 91.58434
+   lon: 21.25331
+
+ - name: Fouad al Khateeb Hospital
+   comment: Fouad al Khateeb Hospital
+   symbol: '/h' 
+   lat: 91.97874
+   lon: 21.42588
+   
+ - name: Rubber Garden (Field Hospital)
+   comment: Rubber Garden (Field Hospital)
+   symbol: '/h' 
+   lat: 92.160372
+   lon: 21.209236
+
+ - name: Cox’s Bazar Airport
+   comment: Cox’s Bazar Airport
    symbol: '/+' 
-   lat: 60.195
-   lon: 24.883
+   lat: 91.96731
+   lon: 21.44609
 
-# - name: Example3
-#   comment: More example entries
-#   symbol: '/+' 
-#   lat: -11.295
-#   lon: -12.823
+ - name: BDRCS Unit Office
+   comment: BDRCS Unit Office
+   symbol: '/-' 
+   lat: 91.96932
+   lon: 21.43960
 
-# - name: Name with Späces
-#   comment: Änöther example
-#   symbol: '/+' 
-#   lat: 60.295
-#   lon: 24.823
-
+ - name: PMO Office 
+   comment: PMO Office 
+   symbol: '/-' 
+   lat: 91.58446
+   lon: 21.25356
+  
+  - name: Seagull Hotel
+   comment: Seagull Hotel
+   symbol: '/H' 
+   lat: 91.97874
+   lon: 21.42588
+    
+  - name: Digital Hospital
+   comment: Digital Hospital
+   symbol: '/h' 
+   lat: 91.97660
+   lon: 21.44132
