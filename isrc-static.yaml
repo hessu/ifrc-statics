@@ -12,48 +12,48 @@ objects:
  - name: Long Beach Hotel
    comment: Hotel Long Beach
    symbol: '/H'
-   lat: 91.58434
-   lon: 21.25331
+   lon: 91.58434
+   lat: 21.25331
 
  - name: Fouad al Khateeb Hospital
    comment: Fouad al Khateeb Hospital
    symbol: '/h'
-   lat: 91.97874
-   lon: 21.42588
+   lon: 91.97874
+   lat: 21.42588
    
  - name: 'Rubber Garden (Field Hospital)'
    comment: 'Rubber Garden (Field Hospital)'
    symbol: '/h'
-   lat: 92.160372
-   lon: 21.209236
+   lon: 92.160372
+   lat: 21.209236
 
  - name: 'Cox’s Bazar Airport'
    comment: 'Cox’s Bazar Airport'
    symbol: '/+'
-   lat: 91.96731
-   lon: 21.44609
+   lon: 91.96731
+   lat: 21.44609
 
  - name: BDRCS Unit Office
    comment: BDRCS Unit Office
    symbol: '/-'
-   lat: 91.96932
-   lon: 21.43960
+   lon: 91.96932
+   lat: 21.43960
 
  - name: PMO Office 
    comment: PMO Office 
    symbol: '/-'
-   lat: 91.58446
-   lon: 21.25356
+   lon: 91.58446
+   lat: 21.25356
   
  - name: Seagull Hotel
    comment: Seagull Hotel
    symbol: '/H'
-   lat: 91.97874
-   lon: 21.42588
+   lon: 91.97874
+   lat: 21.42588
     
  - name: Digital Hospital
    comment: Digital Hospital
    symbol: '/h'
-   lat: 91.97660
-   lon: 21.44132
+   lon: 91.97660
+   lat: 21.44132
 
