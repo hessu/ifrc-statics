@@ -21,8 +21,8 @@ objects:
    lat: 91.97874
    lon: 21.42588
    
- - name: Rubber Garden (Field Hospital)
-   comment: Rubber Garden (Field Hospital)
+ - name: 'Rubber Garden (Field Hospital)'
+   comment: 'Rubber Garden (Field Hospital)'
    symbol: '/h' 
    lat: 92.160372
    lon: 21.209236
@@ -46,13 +46,13 @@ objects:
    lon: 21.25356
   
   - name: Seagull Hotel
-   comment: Seagull Hotel
-   symbol: '/H' 
-   lat: 91.97874
-   lon: 21.42588
+    comment: Seagull Hotel
+    symbol: '/H' 
+    lat: 91.97874
+    lon: 21.42588
     
   - name: Digital Hospital
-   comment: Digital Hospital
-   symbol: '/h' 
-   lat: 91.97660
-   lon: 21.44132
+    comment: Digital Hospital
+    symbol: '/h' 
+    lat: 91.97660
+    lon: 21.44132
