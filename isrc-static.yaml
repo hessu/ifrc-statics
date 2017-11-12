@@ -27,8 +27,8 @@ objects:
    lat: 92.160372
    lon: 21.209236
 
- - name: Cox’s Bazar Airport
-   comment: Cox’s Bazar Airport
+ - name: 'Cox’s Bazar Airport'
+   comment: 'Cox’s Bazar Airport'
    symbol: '/+'
    lat: 91.96731
    lon: 21.44609
